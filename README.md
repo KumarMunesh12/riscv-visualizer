@@ -76,11 +76,6 @@ Click any instruction mnemonic (ADD, SUB, ADDI, LW, SW, etc.) to auto-fill the o
 - Node.js ≥ 18
 - npm ≥ 9
 
-### Install
-
-```bash
-# Clone / unzip the project
-cd riscv-visualizer
 
 # Install dependencies
 npm install
